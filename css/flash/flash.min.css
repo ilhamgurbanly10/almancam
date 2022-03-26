@@ -108,7 +108,10 @@ ul {
 	}
 	.mt-1-in-small-screen {
 		margin-top: 1rem;
-	}	
+	}
+	.mr-1-in-small-screen {
+		margin-right: 1rem;
+	}
 
 }	
 
