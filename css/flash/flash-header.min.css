@@ -424,7 +424,7 @@
 /* fl-navbar-links */
 
 .fl-navbar-links {
-	
+
 }
 
 .fl-navbar-links-item {
@@ -481,7 +481,7 @@
 	max-height: 1000px;
 	opacity: 1;
 	visibility: visible;
-	margin-top: 70px;
+	margin-top: 6vw;
 	margin-bottom: 2vw;
 }
 
@@ -688,7 +688,7 @@
 
 	.fl-navbar-results-of-search {
 
-		max-height: 60vh;
+		max-height: 300px;
 
 	}
 
